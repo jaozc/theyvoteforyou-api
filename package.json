@@ -1,0 +1,15 @@
+{
+    "name": "theyvoteforyou-api",
+    "version": "1.0.0",
+    "description": "API RESTful em Node.js para consumir dados da API pública TheyVoteForYou",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "jaozc",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.4.0",
+      "express": "^4.18.2"
+    }
+  }
